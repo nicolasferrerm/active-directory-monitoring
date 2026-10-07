@@ -1,4 +1,4 @@
-# Active Directory Monitoring
+# Active Directory Event Detections
 
 [![CI](https://github.com/nicolasferrerm/active-directory-monitoring/actions/workflows/ci.yml/badge.svg)](https://github.com/nicolasferrerm/active-directory-monitoring/actions/workflows/ci.yml)
 
